@@ -219,11 +219,11 @@ nav {
   background:
     linear-gradient(
       160deg,
-      oklch(0.09 0.01 20/0.85) 0%,
-      oklch(0.16 0.07 14/0.7) 50%,
-      oklch(0.09 0.01 20/0.92) 100%
+      oklch(0.09 0.01 20 / 0.85) 0%,
+      oklch(0.16 0.07 14 / 0.7) 50%,
+      oklch(0.09 0.01 20 / 0.92) 100%
     ),
-    url(../assets/hero-bg.jpg) center/cover no-repeat;
+    url(../assets/hero-bg.jpg) center 10% / cover no-repeat;
 }
 .hero-grid {
   position: absolute;
