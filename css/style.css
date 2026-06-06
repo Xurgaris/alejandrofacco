@@ -1406,8 +1406,9 @@ footer {
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   gap: 0.5rem;
+  
 }
 .ft-copy {
   font-size: 0.65rem;
